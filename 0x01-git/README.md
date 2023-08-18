@@ -1,0 +1,1 @@
+*Creating my first directory and placing in it a README.md file through shell.*
